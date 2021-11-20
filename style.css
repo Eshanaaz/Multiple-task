@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* // //////////////////DIV 1////////////// */
+
+
+.div1{
+    width: 100%;
+    height: 240px;
+    border: 2px solid grey;
+    text-align: center;
+    padding: 40px;
+}
+.btnclr{
+    height: 50px;
+    cursor: pointer;
+    margin: 0 15px;
+    padding: 5px;
+    border-radius: 5px;
+    
+}
+.btnclr:hover{
+    background-color: rgb(83, 79, 79);
+}
+
+/* // //////////////////DIV 2////////////// */
+
+
+.div2{
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    cursor: pointer;
+    padding: 10px;
+}
+.b1{
+    width: 130px;
+    height: 50px;
+    cursor: pointer;
+    margin: 0 15px;
+    padding: 5px;
+    border-radius: 5px;
+    
+}
+.b1:hover{
+    background-color: rgb(83, 79, 79);
+    color: white;
+}
+
+
+/* .bigImg{
+    width: 400px;
+} */
+
+.bordeImg{
+    /* border: 2px solid red; */
+}
+.smaImg{
+    width: 100px;
+}
+.hidImg{
+    display: none;
+}
+
+ /* ///////////////////////////// DIV 3///////////////// */
+
+.div3{
+    width: 100%;
+    height: 450px;
+    border: 2px solid grey;
+    text-align: center;
+    padding: 40px;
+    cursor: pointer;
+}
+
+ /* ///////////////////////////// DIV 4///////////////// */
+
+ .div4{
+    width: 100%;
+    height: 400px;
+    border: 2px solid grey;
+    text-align: center;
+    padding: 40px;
+    cursor: pointer;
+}
